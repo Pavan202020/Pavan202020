@@ -66,7 +66,7 @@ This project integrates tools like **Matminer**, **Pandas**, and **Scikit-Learn*
 ## 📫 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pavan202020/" target="_blank">
+  <a href="www.linkedin.com/in/pavanlanka/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Pavan202020/Materials-Informatics-Portfolio" target="_blank">
