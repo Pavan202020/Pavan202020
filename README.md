@@ -1,4 +1,4 @@
-<!-- Profile Banner (optional, you can replace the link below later with your custom one) -->
+<!-- Profile Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E8B57,100:1E90FF&height=100&section=header&text=Pavan%20Kumar%20|%20Data%20%26%20Materials%20Informatics&fontSize=24&fontColor=ffffff&animation=fadeIn" />
 </p>
@@ -60,6 +60,19 @@ This project integrates tools like **Matminer**, **Pandas**, and **Scikit-Learn*
 📡 Started in **Electronics & Communications Engineering**  
 📊 Built a foundation in **Data Analytics & BI (Tableau, SQL, Python)**  
 🔬 Now transitioning toward **AI-driven Materials Science**, merging computation with creativity  
+
+---
+
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pavan202020&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan202020&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavan202020&theme=tokyonight" alt="GitHub Streak Stats" height="165"/>
+</p>
 
 ---
 
