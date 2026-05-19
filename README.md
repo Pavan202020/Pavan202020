@@ -1,96 +1,147 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E8B57,100:1E90FF&height=100&section=header&text=Pavan%20Kumar%20|%20Data%20%26%20Materials%20Informatics&fontSize=24&fontColor=ffffff&animation=fadeIn" />
-</p>
+# Hi, I'm Pavan Kumar 👋
 
-# 👋 Hi, I'm **Pavan Kumar**
+Data & Analytics Professional with 9+ years of experience in enterprise analytics, business intelligence, procurement analytics, and data-driven decision making at HSBC.
 
-🎯 **Data & Analytics Professional | Aspiring Materials Informatics Researcher | AI Enthusiast**
+Currently focused on:
+- Machine Learning
+- MLOps & Model Deployment
+- Predictive Analytics
+- AI/LLM Applications
+- Data Science Portfolio Projects
 
-Welcome to my GitHub!  
-I’m passionate about exploring how **data science, materials chemistry, and artificial intelligence** intersect to accelerate materials discovery and innovation.
-
----
-
-## 🧠 What I’m Currently Learning
-
-- 🧪 **Materials Informatics** — data-driven discovery in materials science  
-- 🤖 **Machine Learning for Materials** — property prediction, structure–property mapping  
-- ⚛️ **Quantum & Computational Chemistry** — DFT, simulation-based materials modeling  
-- ☁️ **Data Engineering for Science** — clean and scalable scientific data pipelines  
+I enjoy building end-to-end ML systems — from exploratory data analysis to deployment-ready applications.
 
 ---
 
-## 🚀 Featured Project
+## 🔹 About Me
 
-### 🔹 [Materials Informatics Portfolio](https://github.com/Pavan202020/Materials-Informatics-Portfolio)
-A hands-on exploration of how **machine learning** can predict **electronic bandgaps** of materials.  
-This project integrates tools like **Matminer**, **Pandas**, and **Scikit-Learn** to showcase how data-driven methods can guide materials design.
-
-🧩 **Tech Stack:**  
-`Python` · `Pandas` · `Matplotlib` · `Scikit-learn` · `Matminer` · `Jupyter`  
-
----
-
-## 🧩 Skills & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+- 9+ years of experience in analytics and reporting within enterprise banking environments
+- Strong background in:
+  - Business Intelligence
+  - Data Analytics
+  - KPI Reporting
+  - Dashboard Development
+  - Stakeholder Management
+  - Process Optimization
+- Transitioning into advanced Machine Learning and MLOps engineering
+- Passionate about solving business problems using data and AI
 
 ---
 
-## 🧭 Learning Roadmap (3-Month Plan)
+## 🔹 Technical Skills
 
-| Month | Focus Area | Key Milestones |
-|-------|-------------|----------------|
-| 🩵 Month 1 | **Introduction to Materials Informatics** | Learn Matminer, explore datasets, visualize trends |
-| 💜 Month 2 | **Machine Learning for Materials** | Build predictive models for bandgaps & properties |
-| 💚 Month 3 | **Advanced Topics & Portfolio** | Quantum chemistry basics, dashboard, and publishing results |
+### Languages & Libraries
+- Python
+- SQL
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
 
----
+### Machine Learning
+- Regression
+- Classification
+- Model Evaluation
+- Feature Engineering
+- Hyperparameter Tuning
 
-## 🌍 My Journey
+### MLOps & Deployment
+- FastAPI
+- Docker
+- Git & GitHub
+- CI/CD Concepts
+- Model Packaging
+- API Deployment
 
-📡 Started in **Electronics & Communications Engineering**  
-📊 Built a foundation in **Data Analytics & BI (Tableau, SQL, Python)**  
-🔬 Now transitioning toward **AI-driven Materials Science**, merging computation with creativity  
-
----
-
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pavan202020&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan202020&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavan202020&theme=tokyonight" alt="GitHub Streak Stats" height="165"/>
-</p>
-
----
-
-## 📫 Let’s Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/pavanlanka" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Pavan202020/Materials-Informatics-Portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+### BI & Analytics
+- Tableau
+- Power BI
+- Excel
+- Data Visualization
+- Business Reporting
+- KPI Analytics
 
 ---
 
-⭐ *“Data is the new catalyst — it transforms how we discover, design, and develop materials.”*
+# 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E90FF,100:2E8B57&height=50&section=footer&fontColor=ffffff"/>
-</p>
+## 1️⃣ Insurance Premium Prediction System
+
+End-to-end Machine Learning project that predicts insurance premiums using customer health and demographic data.
+
+### Key Highlights
+- Performed Exploratory Data Analysis (EDA)
+- Conducted Hypothesis Testing
+- Built Regression Models
+- Feature Engineering using BMI and health indicators
+- Model evaluation using R² and error metrics
+- Business-focused storytelling and insights
+
+### Tech Stack
+Python | Pandas | Scikit-learn | Matplotlib | Seaborn
+
+### Business Insight
+Premium costs increase disproportionately with age and health risk factors, demonstrating nonlinear risk amplification patterns.
+
+---
+
+## 2️⃣ MLOps Customer Churn Prediction Project
+
+Production-style Machine Learning pipeline for customer churn prediction with deployment-focused architecture.
+
+### Key Highlights
+- Built modular ML pipeline
+- Implemented model training and inference workflow
+- API development using FastAPI
+- Docker containerization
+- GitHub version control integration
+- Deployment-ready structure
+
+### Tech Stack
+Python | FastAPI | Docker | Scikit-learn | GitHub
+
+### Focus Areas
+- Reproducibility
+- Scalability
+- Deployment readiness
+- Production-oriented ML workflows
+
+---
+
+## 🔹 Professional Experience Highlights
+
+### HSBC — Analytics & Reporting Experience
+Worked across enterprise analytics and reporting functions supporting business operations and decision-making.
+
+Key contributions include:
+- Built analytical reports and dashboards for stakeholders
+- Automated recurring reporting workflows
+- Improved reporting efficiency and data accuracy
+- Worked with large enterprise datasets
+- Supported strategic business decisions through analytics
+- Delivered KPI tracking and operational insights
+
+---
+
+## 🔹 Current Learning Focus
+
+- Advanced Machine Learning
+- MLOps
+- LLM & Prompt Engineering
+- AI Applications in Analytics
+- Cloud Deployment
+- Data Engineering Fundamentals
+
+---
+
+## 🔹 Connect With Me
+
+- LinkedIn: [Add Your LinkedIn URL]
+- GitHub: https://github.com/Pavan202020
+
+---
+
+## 📌 Career Goal
+
+To combine enterprise analytics experience with modern Machine Learning and MLOps practices to build scalable AI-driven business solutions.
