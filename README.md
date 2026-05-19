@@ -137,7 +137,7 @@ Key contributions include:
 
 ## 🔹 Connect With Me
 
-- LinkedIn: [Add Your LinkedIn URL]
+- LinkedIn: www.linkedin.com/in/pavanlanka
 - GitHub: https://github.com/Pavan202020
 
 ---
