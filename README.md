@@ -5,6 +5,7 @@ Data & Analytics Professional with 9+ years of experience in enterprise analytic
 Currently focused on:
 - Machine Learning
 - MLOps & Model Deployment
+- Data Engineering
 - Predictive Analytics
 - AI/LLM Applications
 - Data Science Portfolio Projects
@@ -19,6 +20,7 @@ I enjoy building end-to-end ML systems — from exploratory data analysis to dep
 - Strong background in:
   - Business Intelligence
   - Data Analytics
+  - Data Engineering
   - KPI Reporting
   - Dashboard Development
   - Stakeholder Management
@@ -30,9 +32,11 @@ I enjoy building end-to-end ML systems — from exploratory data analysis to dep
 
 ## 🔹 Technical Skills
 
-### Languages & Libraries
+### Languages, Libraries & Cloud
 - Python
 - SQL
+- Data Bricks
+- Pyshark
 - Pandas
 - NumPy
 - Scikit-learn
